@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"请在development分支上开发");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
